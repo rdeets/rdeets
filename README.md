@@ -1,7 +1,7 @@
 ### Ryan Deets
 Full stack and Web3 developer with 10+ years of programming experience.
-<img src="https://img.shields.io/badge/Typescript-100000?label=&style=flat&logo=typescript&color=blue"><br />
-<img src="https://img.shields.io/badge/Solidity-100000?label=Solidity&style=flat&logo=solidity&color=grey"><br />
+<img src="https://img.shields.io/badge/Typescript-100000?label=%20&style=flat&logo=typescript&color=blue"><br />
+<img src="https://img.shields.io/badge/Solidity-100000?label=%20&style=flat&logo=solidity&color=grey"><br />
 React<br />
 NextJS<br />
 Python<br />

@@ -1,4 +1,16 @@
-### Hi there 👋
+### Ryan Deets
+Full stack and Web3 developer with 10+ years of programming experience.
+Typescript
+Solidity
+React
+NextJS
+Python
+Pinescript
+Tailwind
+
+https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical
 
 <!--
 **rdeets/rdeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

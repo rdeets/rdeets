@@ -13,4 +13,6 @@ Full stack and Web3 developer with 8+ years of programming experience.<br />
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDEETS&show_icons=true&theme=dark&layout=compact)
 
+### Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdeets&theme=dark&repo=DiscordJS-v14-Typescript-Boilerplate)](https://github.com/rdeets/DiscordJS-v14-Typescript-Boilerplate)

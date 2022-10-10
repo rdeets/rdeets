@@ -1,5 +1,5 @@
 ### Ryan Deets
-<br />
+ 
 <img src="https://img.shields.io/badge/JavaScript-100000?label=7%20years&style=flat&logo=javascript&color=yellow">
 <img src="https://img.shields.io/badge/Typescript-100000?label=1%20year&style=flat&logo=typescript&color=blue">
 <img src="https://img.shields.io/badge/Solidity-100000?label=2%20years&style=flat&logo=solidity&color=grey">

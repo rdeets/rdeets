@@ -1,12 +1,13 @@
 ### Ryan Deets
-Full stack and Web3 developer with 10+ years of programming experience.
-<img src="https://img.shields.io/badge/Typescript-100000?label=%20&style=flat&logo=typescript&color=blue"><br />
-<img src="https://img.shields.io/badge/Solidity-100000?label=%20&style=flat&logo=solidity&color=grey"><br />
-React<br />
-NextJS<br />
-Python<br />
-Pinescript<br />
-Tailwind<br />
+Full stack and Web3 developer with 8+ years of programming experience.<br />
+<img src="https://img.shields.io/badge/JavaScript-100000?label=7%20years&style=flat&logo=javascript&color=yellow"><br />
+<img src="https://img.shields.io/badge/Typescript-100000?label=1%20year&style=flat&logo=typescript&color=blue"><br />
+<img src="https://img.shields.io/badge/Solidity-100000?label=2%20years&style=flat&logo=solidity&color=grey"><br />
+<img src="https://img.shields.io/badge/Python-100000?label=8%20years&style=flat&logo=python&color=green"><br />
+<img src="https://img.shields.io/badge/React-100000?label=2%20years&style=flat&logo=react&color=blue"><br />
+<img src="https://img.shields.io/badge/NextJS-100000?label=2%20years&style=flat&logo=nextjs&color=grey"><br />
+<img src="https://img.shields.io/badge/Tailwind-100000?label=1%20year&style=flat&logo=tailwind&color=grey"><br />
+<img src="https://img.shields.io/badge/Pinescript-100000?label=2%20years&style=flat&logo=pinescript&color=grey"><br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rdeets&count_private=true&show_icons=true&theme=radical)
 

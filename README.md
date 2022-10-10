@@ -1,12 +1,12 @@
 ### Ryan Deets
 Full stack and Web3 developer with 10+ years of programming experience.
-Typescript,
-Solidity,
-React,
-NextJS,
-Python,
-Pinescript,
-Tailwind
+<img src="https://img.shields.io/badge/Typescript-100000?label=Made%20with:&style=flat&logo=typescript&color=blue"><br />
+<img src="https://img.shields.io/badge/Solidity-100000?label=:&style=flat&logo=solidityt&color=grey"><br />
+React<br />
+NextJS<br />
+Python<br />
+Pinescript<br />
+Tailwind<br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rdeets&count_private=true&show_icons=true&theme=radical)
 

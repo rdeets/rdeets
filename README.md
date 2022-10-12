@@ -1,5 +1,6 @@
 ### Ryan Deets
 <h2>Full stack and Web3 developer. 10+ years of programming experience.</h2><br />
+<p>
 <img src="https://img.shields.io/badge/JavaScript-100000?label=7%20years&style=flat&logo=javascript&color=yellow">
 <img src="https://img.shields.io/badge/Typescript-100000?label=1%20year&style=flat&logo=typescript&color=blue">
 <img src="https://img.shields.io/badge/Solidity-100000?label=2%20years&style=flat&logo=solidity&color=grey">
@@ -8,7 +9,7 @@
 <img src="https://img.shields.io/badge/NextJS-100000?label=2%20years&style=flat&logo=nextjs&color=grey">
 <img src="https://img.shields.io/badge/Tailwind-100000?label=1%20year&style=flat&logo=tailwind&color=grey">
 <img src="https://img.shields.io/badge/Pinescript-100000?label=2%20years&style=flat&logo=pinescript&color=grey"><br />
-
+</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/cacryandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cacryandev" height="30" width="40" /></a>
